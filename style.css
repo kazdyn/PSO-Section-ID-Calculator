@@ -1,0 +1,116 @@
+div{
+    padding: 1em;
+  }
+
+body{ 
+ background-image: url(unnamed.jpg);
+ background-size: 100%;
+}
+
+button {
+  background-color: #00ff9d;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 35px;
+  font-family: monospace;
+}
+
+button:disabled {
+  background-color: grey;
+  text-decoration: line-through;
+}
+
+input {
+  font-size: 26px;
+  color: #00ff9d;
+  background-color: blue;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, "Helvetica Neue", Helvetica, sans-serif; */
+  font-family: monospace;
+  
+}
+
+select {
+  text-align: center;
+  font-size: 20px;
+  font-family: monospace;
+  background-color: #00ff9d;
+}
+option {
+  text-align: center;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+p.sectionId {
+  font-size: 150px;
+  color: #74e0fd;
+  -webkit-text-stroke: 3px black;
+}
+
+p.versionButtonText {
+  text-align: center;
+  font-family: monospace;
+  color: rgb(0, 191, 255);
+  font-style: bold;
+  font-size: 50px;
+  display: inline;
+  padding-left: 10px;
+  -webkit-text-stroke: 2px black;
+}
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(3); /* IE */
+  -moz-transform: scale(3); /* FF */
+  -webkit-transform: scale(3); /* Safari and Chrome */
+  -o-transform: scale(3); /* Opera */
+  transform: scale(3);
+  padding: 10px;
+}
+
+/* Might want to wrap a span around your checkbox text */
+
+
+#Viridia {
+color: #005937;
+}
+
+#Greenill {
+  color: #00ff88;
+}
+
+#Skyly {
+  color: #00f2ff;
+}
+
+#Bluefull {
+  color: #0d00ff;
+}
+
+#Purplenum {
+  color: #5a03d4;
+}
+
+#Pinkal {
+  color: #ff00ea;
+}
+
+#Redria {
+  color: #fe0037;
+}
+
+#Oran {
+  color: #ff6600;
+}
+
+#Yellowboze {
+  color: #fffb02;
+}
+
+#Whitill {
+  color: #ffffff;
+}
